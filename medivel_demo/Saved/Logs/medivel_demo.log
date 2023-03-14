@@ -3163,3 +3163,32 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.14-15.54.29:623][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.03.14-15.54.29:643][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
 [2023.03.14-15.54.29:724][138]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.03.14-15.56.13:553][234]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.14-15.56.19:225][712]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.03.14-15.56.19:225][712]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.03.14-15.56.42:978][337]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.14-15.57.53:001][742]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.03.14-15.57.53:009][742]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.03.14-15.57.53:017][742]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.03.14-15.57.53:050][744]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.03.14-15.57.56:129][909]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1644)].
+[2023.03.14-15.57.56:129][909]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2023.03.14-15.57.56:155][909]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.03.14-15.57.56:272][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.03.14-15.57.56:275][909]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.096
+[2023.03.14-15.58.20:061][321]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.14-15.58.21:278][418]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/widjet/NewWidgetBlueprint.NewWidgetBlueprint
+[2023.03.14-15.58.21:278][418]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.14-15.58.21:309][418]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.14-15.58.21:322][418]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.03.14-15.58.21:941][418]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.14-15.58.21:942][418]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.14-15.58.22:118][418]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.03.14-15.59.10:557][456]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2023.03.14-15.59.10:795][456]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2023.03.14-15.59.11:290][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/widjet/NewWidgetBlueprint" FILE="D:/1901692/medievl game repo/medevil/medivel_demo/Content/widjet/NewWidgetBlueprint.uasset" SILENT=true
+[2023.03.14-15.59.11:301][474]LogSavePackage: Moving output files for package: /Game/widjet/NewWidgetBlueprint
+[2023.03.14-15.59.11:301][474]LogSavePackage: Moving 'D:/1901692/medievl game repo/medevil/medivel_demo/Saved/NewWidgetBlueprint22E786DD43AAB33CC071BB8842F854B7.tmp' to 'D:/1901692/medievl game repo/medevil/medivel_demo/Content/widjet/NewWidgetBlueprint.uasset'
+[2023.03.14-15.59.11:325][474]AssetCheck: New page: Asset Save: NewWidgetBlueprint
+[2023.03.14-15.59.11:325][474]LogContentValidation: Display: Validating WidgetBlueprint /Game/widjet/NewWidgetBlueprint.NewWidgetBlueprint
+[2023.03.14-16.00.58:279][ 65]LogViewport: Scene viewport resized to 776x376, mode Windowed.
