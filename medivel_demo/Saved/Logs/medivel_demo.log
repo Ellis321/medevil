@@ -2649,3 +2649,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.14-15.34.11:019][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
 [2023.03.14-15.34.11:021][882]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.111
 [2023.03.14-15.40.16:925][ 69]LogViewport: Scene viewport resized to 776x376, mode Windowed.
+[2023.03.14-15.44.11:685][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.03.14-15.44.11:688][ 80]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.128
