@@ -5551,3 +5551,11 @@ BP_NPC_C.BndEvt__BP_NPC_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSign
 [2023.03.17-13.47.59:690][113]AssetCheck: New page: Asset Save: BP_NPC_C_UAID_A4BB6D9A27D0476F01_1250960871
 [2023.03.17-13.47.59:690][113]LogContentValidation: Display: Validating BP_NPC_C /Game/Untitled.Untitled:PersistentLevel.BP_NPC_C_UAID_A4BB6D9A27D0476F01_1250960871
 [2023.03.17-13.48.09:440][363]LogViewport: Scene viewport resized to 917x402, mode Windowed.
+[2023.03.17-13.49.00:835][574]LogViewport: Scene viewport resized to 1385x626, mode Windowed.
+[2023.03.17-14.38.09:079][503]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.168 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.17-15.21.42:987][316]LogViewport: Scene viewport resized to 917x402, mode Windowed.
+[2023.03.17-15.38.08:894][287]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.230 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.17-16.38.08:930][ 39]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.147 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.17-17.38.08:936][798]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.161 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.17-18.38.08:856][555]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.155 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.17-19.35.52:779][968]LogUObjectHash: Compacting FUObjectHashTables data took   7.62ms
